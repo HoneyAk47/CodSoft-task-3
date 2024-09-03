@@ -15,7 +15,7 @@ body{
     padding-left: 250px;
     align-items: center;
     background: linear-gradient(45deg, #0a0a0a, #d8953e);
-    background-image: url(/images/tablepic.jpg);
+    background-image: url(images/tablepic.jpg);
     background-repeat: no-repeat; 
   background-position: center center; 
   background-size: cover;
